@@ -1,7 +1,7 @@
 function Home() {
     
     
-    return <h1>Para ter sucesso, você deve eliminar dúvidas, aceitar desafios e rejeitar qualquer negatividade externa.:)</h1>
+    return <h1>Se você não vivenciar o fracasso, não saberá reconhecer quando o sucesso realmente chegar.</h1>
 
 }
 
