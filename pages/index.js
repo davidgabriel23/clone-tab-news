@@ -1,7 +1,7 @@
 function Home() {
     
     
-    return <h1>Quando estiver tudo muito bagunçado na sua vida, tente começar arrumando algo pequeno. Olhe para o seu quarto e organize algo nele. Depois, organize mais alguma coisa. Quando você for ver, já estará voltando a organizar a sua vida.</h1>
+    return <h1>Ame-se. Deixe as tempestades fora do seu coração. by negro potter</h1>
 
 }
 
