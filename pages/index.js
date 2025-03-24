@@ -1,7 +1,7 @@
 function Home() {
     
     
-    return <h1>Ame-se. Deixe as tempestades fora do seu coração. by negro potter</h1>
+    return <h1>Você é uma pessoa incrível, cuja presença ilumina qualquer ambiente e faz tudo ao seu redor mais especial.</h1>
 
 }
 
