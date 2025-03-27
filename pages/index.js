@@ -1,7 +1,7 @@
 function Home() {
     
     
-    return <h1>Você é tão incrível que parece até mentira. GOSTOSA</h1>
+    return <h1>Eu amo tudo em você: seu sorriso, sua voz e até suas manias. Eu te amo assim, meu amor: por completo.</h1>
 
 }
 
